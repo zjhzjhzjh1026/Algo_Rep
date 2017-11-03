@@ -39,7 +39,7 @@ public:
 
 int main(){
 	Solution T;
-	double res = T.str2flt("-1234.59");
+	double res = T.str2flt("1234.59");
 	cout << res << endl;
 	return 0;
 }
